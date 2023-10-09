@@ -1,0 +1,626 @@
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Google.Protobuf.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\MySql.Data.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ZstdNet.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Main.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewProject.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewCustomer.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewCinnost.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Login.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\Projekt\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Login.resources
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Main.resources
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewCinnost.resources
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewCustomer.resources
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewProject.resources
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\MusilDavid\Desktop\PRG\DanielGrisa\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Login.resources
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Main.resources
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewCinnost.resources
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewCustomer.resources
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewProject.resources
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Properties.Resources.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Google.Protobuf.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\MySql.Data.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ZstdNet.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Login.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Main.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewCinnost.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewCustomer.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewProject.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Properties.Resources.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Login.resources
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Main.resources
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewCinnost.resources
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewCustomer.resources
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewProject.resources
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Google.Protobuf.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\MySql.Data.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ZstdNet.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Login.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Main.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewCinnost.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewCustomer.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewProject.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Properties.Resources.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Google.Protobuf.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\MySql.Data.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ZstdNet.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Login.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Main.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewCinnost.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewCustomer.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewProject.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Properties.Resources.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Login.resources
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Main.resources
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewCinnost.resources
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewCustomer.resources
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewProject.resources
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\grisadaniel\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Google.Protobuf.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\MySql.Data.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ZstdNet.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Login.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Main.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewCinnost.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewCustomer.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewProject.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Properties.Resources.resources
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V2\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Login.resources
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Main.resources
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewCinnost.resources
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewCustomer.resources
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewProject.resources
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\denyg\OneDrive\Plocha\fdaasf\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V3\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V3\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V3\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+X:\3. ročník\ZPR\1_Projekt_evidence_prac_doby\ProjektRightVersion\V3\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Login.resources
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Main.resources
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewCinnost.resources
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewCustomer.resources
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewProject.resources
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\denyg\OneDrive\Plocha\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Login.resources
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Main.resources
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewCinnost.resources
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewCustomer.resources
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.NewProject.resources
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\refint\WinFormsApp1.dll
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\rakus\Desktop\EndVersion\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
